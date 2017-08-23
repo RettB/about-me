@@ -38,7 +38,7 @@ I'm not too picky but I don't want to work for a large corporate beige cubicle f
 Full Stack Web Developer. (and designer?). I'd like to learn more about the design side after this course. I like photography and videography so including that or leaning creative in general would be great. So, Full Stack Web Developer and Designer "unicorn".
 
 ## Link to my resume: 
-[Here!](NickAnderson_Resume.pdf)
+[Here!](Rett Behrens Web Dev resume.pdf)
 
 ## Link to my portfolio website: 
 [rettbehrens.codes](http://rettbehrens.codes)
