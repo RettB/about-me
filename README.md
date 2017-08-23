@@ -1,41 +1,44 @@
 # About Me
 
 ## Before GA:
-I was working at a web agency called BlueModus as a UX Lead.
+
+I graduated ASU with BS in Sustainability with a focus on renewable energy, materials, and technology and a Minor in Global Studies. I worked for Cabela's Social Compliance department for 15ish months making sure their products were being manufactured responsibly and collecting and reporting on Conflict Minerals compliance data.
 
 ## Outcomes support I need:
-None - I will be providing it (with Becca)
+
+Lots.
+
+Networking.
+Resume and Cover Letters.
+Interviewing - I usually get a phone interview and maybe a first interview but not a job. 
+Branding.
 
 ## Day 1 Goals:
-1. Make 17 new developers
+
+Please elaborate?
 
 ## Two Truths and a Lie
 
-### Nick
-1. I have two cats named Gin and Tonic
-2. My last vacation was to the West Bank
-3. I bike 30 miles to get here each day
-
-### Becca
-1. I once ate 8 lobsters in one sitting.
-2. I skipped college graduation and booked a one way flight to Paris.
-3. I donated my eggs and have a child in Europe that I've never met.
+### Everett
+1. I have been to 44 of the 50 states and 16 countries.
+2. I rescued a family of Snapping Turtles when I was 4.
+3. I had to punch a bear in an alleyway walking back to my hotel on a recent trip to Ouray, Colorado.
 
 ## My LinkedIn
-[Here!](https://www.linkedin.com/in/nickandersonr)
+[Here!](https://www.linkedin.com/in/everettbehrens)
 
 ## Meetups I've attended:
-1. Denver Script (6/7)
-2. Denver Script (6/27)
+1. DenverScript 8/22
+2. placeholder
 
 ## What type of company would you like to work for (i.e. Agency, Product, Startup)?
-I like the idea of working for startup or small business. I think I could thrive in an agency role. It's important to me that my work have a visible impact on the company I'm working for. I also want to be able to wear metal tshirts to work.
+I'm not too picky but I don't want to work for a large corporate beige cubicle farm. Business casual Friday should not be the most exciting thing about working there. Jeans and a tshirt dress code would be prefered. Agency, product, and/or startup all sound interesting in their own ways but freelancing would be cool too. Would very much prefer flexible working options with the ability to travel and work from anywhere with a wifi connection. 
 
 ## What kind of role are you leaning towards (i.e. Frontend, Backend, etc)?
-I like frontend and UX work, so something with a combined dev/design role would be perfect. I also like talking to people, and would feel confident leading projects from a manamagent role. 
+Full Stack Web Developer. (and designer?). I'd like to learn more about the design side after this course. I like photography and videography so including that or leaning creative in general would be great. So, Full Stack Web Developer and Designer "unicorn".
 
 ## Link to my resume: 
 [Here!](NickAnderson_Resume.pdf)
 
 ## Link to my portfolio website: 
-[NickAnderson.rocks](http://NickAnderson.rocks)
+[rettbehrens.codes](http://rettbehrens.codes)
